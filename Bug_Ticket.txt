@@ -1,0 +1,19 @@
+--- Bug Creation when User is not able to perform Login
+
+Environment Used:
+Browser: Chrome
+OS: Windows
+URL: https://sampleqaurl.com
+
+Test Data:
+User Id: sa21332
+
+Steps to Reporduce:
+
+1. Hit the URL https://sampleqaurl.com in chrome browser
+2. Enter valid User Id
+3. Click on Login button
+
+Expected Behavior: User should be able to login successfully
+
+Actual Behavior: User is not able to login.
